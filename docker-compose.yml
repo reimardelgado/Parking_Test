@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+
+  parking-api:
+    image: ${REGISTRY:-reimardelgado}/parking.api:${PLATFORM:-linux}-${TAG:-latest}
+    build:
+      context: .
+      dockerfile: src/Services/Parking/ParkingLots.API/Dockerfile
+    environment:
+      - PARKINGLOTS_DB_CONNECTION=Host=sqldata;Database=parking;Username=parking;Password=parking12.
+    depends_on:
+      - sqldata
+
+  sqldata:
+    image: postgres:13.4
+    environment:
+      - POSTGRES_USER=parking
+      - POSTGRES_PASSWORD=parking12.
+    ports:
+      - 127.0.0.1:5433:5432

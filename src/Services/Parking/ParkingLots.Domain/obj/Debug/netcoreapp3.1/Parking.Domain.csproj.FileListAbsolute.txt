@@ -1,0 +1,10 @@
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/bin/Debug/netcoreapp3.1/Parking.Domain.deps.json
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/bin/Debug/netcoreapp3.1/Parking.Domain.dll
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/bin/Debug/netcoreapp3.1/Parking.Domain.pdb
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/Debug/netcoreapp3.1/Parking.Domain.csproj.AssemblyReference.cache
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/Debug/netcoreapp3.1/Parking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/Debug/netcoreapp3.1/Parking.Domain.AssemblyInfoInputs.cache
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/Debug/netcoreapp3.1/Parking.Domain.AssemblyInfo.cs
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/Debug/netcoreapp3.1/Parking.Domain.csproj.CoreCompileInputs.cache
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/Debug/netcoreapp3.1/Parking.Domain.dll
+/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/Debug/netcoreapp3.1/Parking.Domain.pdb

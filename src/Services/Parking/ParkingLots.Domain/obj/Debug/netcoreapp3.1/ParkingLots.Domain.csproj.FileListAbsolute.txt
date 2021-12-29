@@ -1,0 +1,10 @@
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\bin\Debug\netcoreapp3.1\ParkingLots.Domain.deps.json
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\bin\Debug\netcoreapp3.1\ParkingLots.Domain.dll
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\bin\Debug\netcoreapp3.1\ParkingLots.Domain.pdb
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\obj\Debug\netcoreapp3.1\ParkingLots.Domain.csproj.AssemblyReference.cache
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\obj\Debug\netcoreapp3.1\ParkingLots.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\obj\Debug\netcoreapp3.1\ParkingLots.Domain.AssemblyInfoInputs.cache
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\obj\Debug\netcoreapp3.1\ParkingLots.Domain.AssemblyInfo.cs
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\obj\Debug\netcoreapp3.1\ParkingLots.Domain.csproj.CoreCompileInputs.cache
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\obj\Debug\netcoreapp3.1\ParkingLots.Domain.dll
+D:\TRABAJO\TEST\parking (1)\parking\src\Services\Parking\ParkingLots.Domain\obj\Debug\netcoreapp3.1\ParkingLots.Domain.pdb

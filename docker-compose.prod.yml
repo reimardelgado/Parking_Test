@@ -1,0 +1,15 @@
+version: '3.4'
+
+# Set ASPNETCORE_ENVIRONMENT= Development or Production, depending if you want to show up errors while testing.
+#
+# You need to start it with the following CLI command:
+# docker-compose -f docker-compose.yml -f docker-compose.prod.yml up
+
+services:
+
+  inscripciones-api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://0.0.0.0:80
+    ports:
+      - "5105:80"

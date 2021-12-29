@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Parking.API
+build_property.ProjectDir = /Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.API/

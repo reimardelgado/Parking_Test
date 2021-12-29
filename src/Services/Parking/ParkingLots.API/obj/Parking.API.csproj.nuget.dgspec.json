@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.API/Parking.API.csproj": {}
+  },
+  "projects": {
+    "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.API/Parking.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.API/Parking.API.csproj",
+        "projectName": "Parking.API",
+        "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.API/Parking.API.csproj",
+        "packagesPath": "/Users/dbonne/.nuget/packages/",
+        "outputPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dbonne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Application/Parking.Application.csproj": {
+                "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Application/Parking.Application.csproj"
+              },
+              "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Infrastructure/Parking.Infrastructure.csproj": {
+                "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Infrastructure/Parking.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Application/Parking.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Application/Parking.Application.csproj",
+        "projectName": "Parking.Application",
+        "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Application/Parking.Application.csproj",
+        "packagesPath": "/Users/dbonne/.nuget/packages/",
+        "outputPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dbonne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/Parking.Domain.csproj": {
+                "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/Parking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/Parking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/Parking.Domain.csproj",
+        "projectName": "Parking.Domain",
+        "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/Parking.Domain.csproj",
+        "packagesPath": "/Users/dbonne/.nuget/packages/",
+        "outputPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dbonne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Infrastructure/Parking.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Infrastructure/Parking.Infrastructure.csproj",
+        "projectName": "Parking.Infrastructure",
+        "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Infrastructure/Parking.Infrastructure.csproj",
+        "packagesPath": "/Users/dbonne/.nuget/packages/",
+        "outputPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dbonne/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/Parking.Domain.csproj": {
+                "projectPath": "/Users/dbonne/Development/dotnet/kruger/parking/src/Services/Parking/Parking.Domain/Parking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
